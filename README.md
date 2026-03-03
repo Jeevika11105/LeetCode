@@ -28,4 +28,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1512-number-of-good-pairs](https://github.com/Jeevika11105/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0058-length-of-last-word](https://github.com/Jeevika11105/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 <!---LeetCode Topics End-->
