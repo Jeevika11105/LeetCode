@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Jeevika11105/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/Jeevika11105/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Jeevika11105/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/Jeevika11105/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/Jeevika11105/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jeevika11105/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Jeevika11105/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -70,4 +71,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/Jeevika11105/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/Jeevika11105/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
