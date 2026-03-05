@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Jeevika11105/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Jeevika11105/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -31,5 +32,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Jeevika11105/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0058-length-of-last-word](https://github.com/Jeevika11105/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Jeevika11105/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
