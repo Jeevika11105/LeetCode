@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jeevika11105/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Jeevika11105/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Jeevika11105/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Jeevika11105/LeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/Jeevika11105/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0709-to-lower-case](https://github.com/Jeevika11105/LeetCode/tree/main/0709-to-lower-case/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Jeevika11105/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Jeevika11105/LeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
