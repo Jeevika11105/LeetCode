@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/Jeevika11105/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/Jeevika11105/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Jeevika11105/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [2469-convert-the-temperature](https://github.com/Jeevika11105/LeetCode/tree/main/2469-convert-the-temperature/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
