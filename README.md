@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/Jeevika11105/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0070-climbing-stairs](https://github.com/Jeevika11105/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/Jeevika11105/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Jeevika11105/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Jeevika11105/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2469-convert-the-temperature](https://github.com/Jeevika11105/LeetCode/tree/main/2469-convert-the-temperature/) | Easy |
 ## Counting
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/Jeevika11105/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0709-to-lower-case](https://github.com/Jeevika11105/LeetCode/tree/main/0709-to-lower-case/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Jeevika11105/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Jeevika11105/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Jeevika11105/LeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/Jeevika11105/LeetCode/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Jeevika11105/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
