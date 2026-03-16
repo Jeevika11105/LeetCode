@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1071-greatest-common-divisor-of-strings](https://github.com/Jeevika11105/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Jeevika11105/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2469-convert-the-temperature](https://github.com/Jeevika11105/LeetCode/tree/main/2469-convert-the-temperature/) | Easy |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Jeevika11105/LeetCode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
