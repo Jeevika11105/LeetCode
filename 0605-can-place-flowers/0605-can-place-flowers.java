@@ -9,6 +9,7 @@ class Solution {
                 if (left && right) {
                     flowerbed[i] = 1;
                     n--;
+                    i++;
                 }
             }
             if (n <= 0) return true;
