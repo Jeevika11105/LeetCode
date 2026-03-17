@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Jeevika11105/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/Jeevika11105/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jeevika11105/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0605-can-place-flowers](https://github.com/Jeevika11105/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Jeevika11105/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Jeevika11105/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Jeevika11105/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Jeevika11105/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0605-can-place-flowers](https://github.com/Jeevika11105/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
