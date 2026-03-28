@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/Jeevika11105/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0735-asteroid-collision](https://github.com/Jeevika11105/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Jeevika11105/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/Jeevika11105/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Jeevika11105/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Jeevika11105/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Jeevika11105/LeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jeevika11105/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Jeevika11105/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/Jeevika11105/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Jeevika11105/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -144,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Jeevika11105/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Jeevika11105/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/Jeevika11105/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/Jeevika11105/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jeevika11105/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/Jeevika11105/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/Jeevika11105/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
