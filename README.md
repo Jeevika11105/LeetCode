@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1512-number-of-good-pairs](https://github.com/Jeevika11105/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Jeevika11105/LeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Jeevika11105/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/Jeevika11105/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Jeevika11105/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Jeevika11105/LeetCode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 ## Two Pointers
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/Jeevika11105/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Jeevika11105/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Jeevika11105/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/Jeevika11105/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
