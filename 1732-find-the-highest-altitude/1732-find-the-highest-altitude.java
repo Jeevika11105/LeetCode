@@ -1,15 +1,11 @@
 class Solution {
     public int largestAltitude(int[] gain) {
-        int maxAltitude = 0; // The biker starts at point 0 with altitude 0
-        int currentAltitude = 0;
-        
-        for (int g : gain) {
-            // Calculate the altitude at the next point
-            currentAltitude += g;
-            // Update the maximum altitude if the current one is higher
-            maxAltitude = Math.max(maxAltitude, currentAltitude);
+        int current = 0;
+        int maxaltitude = 0;
+        for(int i = 0; i < gain.length; i++){
+            current += gain[i];
+            maxaltitude = Math.max(current,maxaltitude);
         }
-        
-        return maxAltitude;
+        return maxaltitude;
     }
 }
