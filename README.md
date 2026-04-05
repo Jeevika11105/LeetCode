@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1678-goal-parser-interpretation](https://github.com/Jeevika11105/LeetCode/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Jeevika11105/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Jeevika11105/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/Jeevika11105/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/Jeevika11105/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0735-asteroid-collision](https://github.com/Jeevika11105/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Jeevika11105/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/Jeevika11105/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -226,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/Jeevika11105/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Jeevika11105/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/Jeevika11105/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/Jeevika11105/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
