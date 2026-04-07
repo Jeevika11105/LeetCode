@@ -11,7 +11,6 @@ WHERE (product_id, change_date) IN (
 
 UNION
 
--- Part 2: Products whose first change was AFTER 2019-08-16 (initial price 10)
 SELECT DISTINCT product_id, 10 AS price
 FROM Products
 WHERE product_id NOT IN (
