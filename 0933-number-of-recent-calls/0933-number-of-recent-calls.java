@@ -6,7 +6,6 @@ class RecentCounter {
         start = 0;
         end = 0;
     }
-    
     public int ping(int t) {
         while(start<end && (t - arr[start] > 3000)){
             start++;
