@@ -1,15 +1,18 @@
 class RecentCounter {
-    public Queue<Integer> queue;
+    private static int[] arr = new int[10000];
+    int start;
+    int end;
     public RecentCounter() {
-        this.queue = new LinkedList<>();
+        start = 0;
+        end = 0;
     }
     
     public int ping(int t) {
-        queue.add(t);
-        while(queue.peek() < t - 3000){
-            queue.poll();
+        while(start<end && (t - arr[start] > 3000)){
+            start++;
         }
-        return queue.size();
+        arr[end++] = t;
+        return end - start;
     }
 }
 
