@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Jeevika11105/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/Jeevika11105/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/Jeevika11105/LeetCode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Jeevika11105/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jeevika11105/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Jeevika11105/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0605-can-place-flowers](https://github.com/Jeevika11105/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Jeevika11105/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Jeevika11105/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Jeevika11105/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Jeevika11105/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Jeevika11105/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/Jeevika11105/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Jeevika11105/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -76,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Jeevika11105/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Jeevika11105/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Jeevika11105/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Jeevika11105/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jeevika11105/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Jeevika11105/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Jeevika11105/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -100,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Jeevika11105/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Jeevika11105/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Jeevika11105/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/Jeevika11105/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 ## String
@@ -136,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/Jeevika11105/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/Jeevika11105/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Jeevika11105/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Jeevika11105/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -316,4 +321,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/Jeevika11105/LeetCode/tree/main/0933-number-of-recent-calls/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Jeevika11105/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Jeevika11105/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Jeevika11105/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
