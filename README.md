@@ -194,19 +194,23 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/Jeevika11105/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [2236-root-equals-sum-of-children](https://github.com/Jeevika11105/LeetCode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/Jeevika11105/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/Jeevika11105/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/Jeevika11105/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [2236-root-equals-sum-of-children](https://github.com/Jeevika11105/LeetCode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
