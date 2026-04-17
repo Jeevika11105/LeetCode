@@ -270,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0185-department-top-three-salaries](https://github.com/Jeevika11105/LeetCode/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0196-delete-duplicate-emails](https://github.com/Jeevika11105/LeetCode/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/Jeevika11105/LeetCode/tree/main/0197-rising-temperature/) | Easy |
+| [0262-trips-and-users](https://github.com/Jeevika11105/LeetCode/tree/main/0262-trips-and-users/) | Hard |
 | [0550-game-play-analysis-iv](https://github.com/Jeevika11105/LeetCode/tree/main/0550-game-play-analysis-iv/) | Medium |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Jeevika11105/LeetCode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/Jeevika11105/LeetCode/tree/main/0577-employee-bonus/) | Easy |
