@@ -268,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0178-rank-scores](https://github.com/Jeevika11105/LeetCode/tree/main/0178-rank-scores/) | Medium |
 | [0180-consecutive-numbers](https://github.com/Jeevika11105/LeetCode/tree/main/0180-consecutive-numbers/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Jeevika11105/LeetCode/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
+| [0184-department-highest-salary](https://github.com/Jeevika11105/LeetCode/tree/main/0184-department-highest-salary/) | Medium |
 | [0185-department-top-three-salaries](https://github.com/Jeevika11105/LeetCode/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0196-delete-duplicate-emails](https://github.com/Jeevika11105/LeetCode/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/Jeevika11105/LeetCode/tree/main/0197-rising-temperature/) | Easy |
