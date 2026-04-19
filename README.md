@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Jeevika11105/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0225-implement-stack-using-queues](https://github.com/Jeevika11105/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Jeevika11105/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Jeevika11105/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -199,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/Jeevika11105/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/Jeevika11105/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0437-path-sum-iii](https://github.com/Jeevika11105/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/Jeevika11105/LeetCode/tree/main/2236-root-equals-sum-of-children/) | Easy |
@@ -207,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/Jeevika11105/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/Jeevika11105/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0437-path-sum-iii](https://github.com/Jeevika11105/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Breadth-First Search
@@ -220,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/Jeevika11105/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/Jeevika11105/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0437-path-sum-iii](https://github.com/Jeevika11105/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/Jeevika11105/LeetCode/tree/main/2236-root-equals-sum-of-children/) | Easy |
