@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1732-find-the-highest-altitude](https://github.com/Jeevika11105/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Jeevika11105/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Jeevika11105/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Jeevika11105/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Jeevika11105/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Jeevika11105/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/Jeevika11105/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
@@ -300,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0334-increasing-triplet-subsequence](https://github.com/Jeevika11105/LeetCode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0605-can-place-flowers](https://github.com/Jeevika11105/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0649-dota2-senate](https://github.com/Jeevika11105/LeetCode/tree/main/0649-dota2-senate/) | Medium |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Jeevika11105/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
