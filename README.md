@@ -213,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/Jeevika11105/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0437-path-sum-iii](https://github.com/Jeevika11105/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/Jeevika11105/LeetCode/tree/main/2236-root-equals-sum-of-children/) | Easy |
@@ -226,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/Jeevika11105/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0437-path-sum-iii](https://github.com/Jeevika11105/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Breadth-First Search
@@ -245,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/Jeevika11105/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0437-path-sum-iii](https://github.com/Jeevika11105/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/Jeevika11105/LeetCode/tree/main/2236-root-equals-sum-of-children/) | Easy |
