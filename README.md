@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Jeevika11105/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Jeevika11105/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/Jeevika11105/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
+| [2833-furthest-point-from-origin](https://github.com/Jeevika11105/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1768-merge-strings-alternately](https://github.com/Jeevika11105/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Jeevika11105/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Jeevika11105/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2833-furthest-point-from-origin](https://github.com/Jeevika11105/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
