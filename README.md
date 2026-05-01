@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1512-number-of-good-pairs](https://github.com/Jeevika11105/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Jeevika11105/LeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Jeevika11105/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Jeevika11105/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Jeevika11105/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Jeevika11105/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Jeevika11105/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -203,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0844-backspace-string-compare](https://github.com/Jeevika11105/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/Jeevika11105/LeetCode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Jeevika11105/LeetCode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Jeevika11105/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Jeevika11105/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Jeevika11105/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Prefix Sum
@@ -352,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/Jeevika11105/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Jeevika11105/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/Jeevika11105/LeetCode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Jeevika11105/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Jeevika11105/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/Jeevika11105/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Jeevika11105/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -435,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/Jeevika11105/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0649-dota2-senate](https://github.com/Jeevika11105/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Jeevika11105/LeetCode/tree/main/0933-number-of-recent-calls/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Jeevika11105/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
