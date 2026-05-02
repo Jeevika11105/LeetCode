@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1732-find-the-highest-altitude](https://github.com/Jeevika11105/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Jeevika11105/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Jeevika11105/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/Jeevika11105/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Jeevika11105/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Jeevika11105/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Jeevika11105/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -356,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1441-build-an-array-with-stack-operations](https://github.com/Jeevika11105/LeetCode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Jeevika11105/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Jeevika11105/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/Jeevika11105/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/Jeevika11105/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Jeevika11105/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Greedy
@@ -439,6 +441,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0649-dota2-senate](https://github.com/Jeevika11105/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Jeevika11105/LeetCode/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Jeevika11105/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/Jeevika11105/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
