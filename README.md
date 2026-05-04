@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jeevika11105/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Jeevika11105/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0645-set-mismatch](https://github.com/Jeevika11105/LeetCode/tree/main/0645-set-mismatch/) | Easy |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/Jeevika11105/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jeevika11105/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Jeevika11105/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -258,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0662-maximum-width-of-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Jeevika11105/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/Jeevika11105/LeetCode/tree/main/2236-root-equals-sum-of-children/) | Easy |
@@ -281,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0662-maximum-width-of-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0841-keys-and-rooms](https://github.com/Jeevika11105/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Breadth-First Search
@@ -294,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/Jeevika11105/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Jeevika11105/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -319,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0662-maximum-width-of-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Jeevika11105/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/Jeevika11105/LeetCode/tree/main/2236-root-equals-sum-of-children/) | Easy |
