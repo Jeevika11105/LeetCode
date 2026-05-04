@@ -255,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0437-path-sum-iii](https://github.com/Jeevika11105/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Jeevika11105/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0662-maximum-width-of-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Jeevika11105/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
@@ -277,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/Jeevika11105/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0662-maximum-width-of-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0841-keys-and-rooms](https://github.com/Jeevika11105/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
@@ -290,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Jeevika11105/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Jeevika11105/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0662-maximum-width-of-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Jeevika11105/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Tree
@@ -313,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0437-path-sum-iii](https://github.com/Jeevika11105/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Jeevika11105/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0662-maximum-width-of-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Jeevika11105/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Jeevika11105/LeetCode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
