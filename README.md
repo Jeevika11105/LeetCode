@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/Jeevika11105/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/Jeevika11105/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0053-maximum-subarray](https://github.com/Jeevika11105/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0066-plus-one](https://github.com/Jeevika11105/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/Jeevika11105/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Jeevika11105/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jeevika11105/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Jeevika11105/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+| [0066-plus-one](https://github.com/Jeevika11105/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/Jeevika11105/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jeevika11105/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0231-power-of-two](https://github.com/Jeevika11105/LeetCode/tree/main/0231-power-of-two/) | Easy |
