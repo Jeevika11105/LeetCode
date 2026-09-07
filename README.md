@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Jeevika11105/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/Jeevika11105/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/Jeevika11105/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/Jeevika11105/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jeevika11105/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0053-maximum-subarray](https://github.com/Jeevika11105/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/Jeevika11105/LeetCode/tree/main/0066-plus-one/) | Easy |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Jeevika11105/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/Jeevika11105/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/Jeevika11105/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jeevika11105/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jeevika11105/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0075-sort-colors](https://github.com/Jeevika11105/LeetCode/tree/main/0075-sort-colors/) | Medium |
@@ -89,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Jeevika11105/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/Jeevika11105/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/Jeevika11105/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Jeevika11105/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
