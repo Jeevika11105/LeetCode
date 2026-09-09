@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jeevika11105/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Jeevika11105/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/Jeevika11105/LeetCode/tree/main/0283-move-zeroes/) | Easy |
+| [0344-reverse-string](https://github.com/Jeevika11105/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Jeevika11105/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Jeevika11105/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/Jeevika11105/LeetCode/tree/main/0443-string-compression/) | Medium |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jeevika11105/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/Jeevika11105/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/Jeevika11105/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
+| [0344-reverse-string](https://github.com/Jeevika11105/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Jeevika11105/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Jeevika11105/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/Jeevika11105/LeetCode/tree/main/0443-string-compression/) | Medium |
