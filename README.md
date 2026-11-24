@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/Jeevika11105/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Jeevika11105/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/Jeevika11105/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+| [0229-majority-element-ii](https://github.com/Jeevika11105/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Jeevika11105/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Jeevika11105/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0268-missing-number](https://github.com/Jeevika11105/LeetCode/tree/main/0268-missing-number/) | Easy |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Jeevika11105/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/Jeevika11105/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Jeevika11105/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+| [0229-majority-element-ii](https://github.com/Jeevika11105/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/Jeevika11105/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Jeevika11105/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0645-set-mismatch](https://github.com/Jeevika11105/LeetCode/tree/main/0645-set-mismatch/) | Easy |
@@ -116,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jeevika11105/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0169-majority-element](https://github.com/Jeevika11105/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Jeevika11105/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+| [0229-majority-element-ii](https://github.com/Jeevika11105/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/Jeevika11105/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Jeevika11105/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jeevika11105/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -152,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Jeevika11105/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/Jeevika11105/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Jeevika11105/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Jeevika11105/LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1512-number-of-good-pairs](https://github.com/Jeevika11105/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -552,4 +556,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Jeevika11105/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0229-majority-element-ii](https://github.com/Jeevika11105/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 <!---LeetCode Topics End-->
